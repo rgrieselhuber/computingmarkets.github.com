@@ -1,0 +1,22 @@
+---
+layout: simple
+title: The Economist on the Rise of Computing Markets
+author: Ray Grieselhuber
+excerpt: In an inaugural sense (for this site at least), The Economist posted an excellent article  about the new and expanding market for computing power, or computing markets. 
+---
+
+h1. {{ page.title }}
+
+Ray Grieselhuber
+2010 Mar 10
+
+In an inaugural sense (for this site at least), The Economist posted an article about the new and expanding market for computing power, "computing markets":/what-are-computing-markets.html for short. 
+
+From the article:
+
+bq. "In the electricity business, it was the invention of something called the “rotary converter” and other transformers that led to the rise of the power utility. It allowed power from different generators to be pooled and distributed over the grid. The analogous technology in cloud computing is virtualisation. This separates software from hardware, allowing many programs to run on any machine, and indeed to switch between them. Although hardware stays in one place, “virtual machines” consuming processing power can jump around, even between far-flung data centres. Virtualisation has also given rise to big “cloud providers”, which offer computing power on demand, such as Amazon Web Services, a subsidiary of the eponymous online-shopping giant.
+
+bq. It took decades for electrical power to become a tradable commodity. Computing seems to be getting there faster."
+
+Read more at <a href="http://www.economist.com/business-finance/displaystory.cfm?story_id=15663898" rel="bookmark">the Economist</a>.
+

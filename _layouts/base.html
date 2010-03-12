@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"  
+    xml:lang="en" lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="content-language" content="en" />
+	<meta name="description" content="The first site to cover the latest news and trends in cloud computing power and its exchange on open markets.">
+    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
+  </head>
+  <body>
+	{% include header.html %}
+    <div id="container">
+      {{ content }}
+    </div>
+	{% include footer.html %}
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-587723-7");
+	pageTracker._setDomainName(".computingmarkets.com");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+  </body>
+</html>

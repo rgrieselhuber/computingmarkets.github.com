@@ -1,0 +1,47 @@
+/*
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.8.0r4
+*/
+body{margin:0px;}h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em 0;}h1,h2,h3,h4,h5,h6,strong,dt{font-weight:bold;}optgroup{font-weight:normal;}abbr,acronym{border-bottom:1px dotted #000;cursor:help;}em{font-style:italic;}del{text-decoration:line-through;}blockquote,ul,ol,dl{margin:1em;}ol,ul,dl{margin-left:2em;}ol li{list-style:decimal outside;}ul li{list-style:disc outside;}dl dd{margin-left:1em;}th,td{border:1px solid #000;padding:.5em;}th{font-weight:bold;text-align:center;}caption{margin-bottom:.5em;text-align:center;}sup{vertical-align:super;}sub{vertical-align:sub;}p,fieldset,table,pre{margin-bottom:1em;}button,input[type="checkbox"],input[type="radio"],input[type="reset"],input[type="submit"]{padding:1px;}
+
+html, body, .container, .content {height: 100%;}
+
+body{background:#f6f6f6;font-family: Helvetica, Arial;}
+fieldset{border:0;padding:0px;}
+label{display:block;}
+
+h2{margin:0;padding:0 0 5px 0;}
+a:visited{color:#002b88;}
+blockquote{font-style:italic;}
+
+.content{border:1px solid #dddddd;margin: 0 auto; margin-top:20px; width:780px;padding:0px 20px 20px 20px;background:#fcfcfc;}
+
+.header{background:#192222;color:#cccccc;height:80px;border-bottom:5px solid #3a792a;}
+
+.header_contents{margin: 0 auto;width:850px;}
+.logo{float:left;margin-top:10px;margin-left:10px;background:url(/images/computing-markets-logo.gif) no-repeat;height:100px;width:350px;}
+.logo span{color:#ffffff;display:none;}
+.logo a{color:#ffffff;text-decoration:none;display:block;height:100px;width:350px;}
+
+.push{}
+
+.footer{margin-top:0px;overflow:auto;padding-top:5px;}
+.footer_contents{margin:0 auto;width:850px;}
+.copyright{font-size:10pt;text-align:left;margin-left:20px;}
+
+.nav ul {float:right;display:inline;margin-top:12px;}
+.nav ul li{color:#cccccc;display:inline;margin-left:20px;}
+.nav ul li a{color:#cccccc;text-decoration:none;}
+
+.home-header{}
+.home-header span{}
+.home-header2 span{display:none;}
+
+.date{}
+.excerpt{padding:10px 0 0 0;}
+
+.mc-field-group{float:left;}
+.subcribe_btn{padding-top:17px;padding-left:5px;}
+
